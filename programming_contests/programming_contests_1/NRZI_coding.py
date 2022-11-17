@@ -1,0 +1,1 @@
+print(input().replace("|¯", "1").replace("|_", "1").replace("_", "0").replace("¯", "0"))
